@@ -34,7 +34,7 @@ export default function Home({ allPostsData }) {
     </Head>
     <section className={utilStyle.headingMd}>
       <p>
-        私はUdemmyにてネクストを勉強中です
+        私はUdemmyにてネクストを勉強に苦戦中です
       </p>
     </section>
 
